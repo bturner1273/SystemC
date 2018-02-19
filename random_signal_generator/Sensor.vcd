@@ -1,0 +1,224 @@
+$date
+     Feb 19, 2018       21:11:15
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Jun  1 2014 14:49:19
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire   32  aaaaa  x [31:0]  $end
+$var wire   32  aaaab  y [31:0]  $end
+$var wire    1  aaaac  clock       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+b1011100011 aaaaa
+b1111001000 aaaab
+1aaaac
+$end
+
+#2000000000
+0aaaac
+
+#4000000000
+b1011000010 aaaaa
+b1011001001 aaaab
+1aaaac
+
+#6000000000
+0aaaac
+
+#8000000000
+b110111001 aaaaa
+b1010101011 aaaab
+1aaaac
+
+#10000000000
+0aaaac
+
+#12000000000
+b11100011 aaaaa
+b1101101001 aaaab
+1aaaac
+
+#14000000000
+0aaaac
+
+#16000000000
+b1110010011 aaaaa
+b1100001110 aaaab
+1aaaac
+
+#18000000000
+0aaaac
+
+#20000000000
+b10100010 aaaaa
+b110001101 aaaab
+1aaaac
+
+#22000000000
+0aaaac
+
+#24000000000
+b100010001 aaaaa
+b110010001 aaaab
+1aaaac
+
+#26000000000
+0aaaac
+
+#28000000000
+b1000100011 aaaaa
+b1110110000 aaaab
+1aaaac
+
+#30000000000
+0aaaac
+
+#32000000000
+b1101010001 aaaaa
+b1101000101 aaaab
+1aaaac
+
+#34000000000
+0aaaac
+
+#36000000000
+b1110000110 aaaaa
+b1011111100 aaaab
+1aaaac
+
+#38000000000
+0aaaac
+
+#40000000000
+b1111101001 aaaaa
+b111001010 aaaab
+1aaaac
+
+#42000000000
+0aaaac
+
+#44000000000
+b10011100 aaaaa
+b11001011 aaaab
+1aaaac
+
+#46000000000
+0aaaac
+
+#48000000000
+b11100111 aaaaa
+b100110100 aaaab
+1aaaac
+
+#50000000000
+0aaaac
+
+#52000000000
+b10001000 aaaaa
+b1010101010 aaaab
+1aaaac
+
+#54000000000
+0aaaac
+
+#56000000000
+b1011110100 aaaaa
+b100101101 aaaab
+1aaaac
+
+#58000000000
+0aaaac
+
+#60000000000
+b11101011 aaaaa
+b111010111 aaaab
+1aaaac
+
+#62000000000
+0aaaac
+
+#64000000000
+b11110101 aaaaa
+b1110101110 aaaab
+1aaaac
+
+#66000000000
+0aaaac
+
+#68000000000
+b10100001 aaaaa
+b1010101111 aaaab
+1aaaac
+
+#70000000000
+0aaaac
+
+#72000000000
+b1001011001 aaaaa
+b110000100 aaaab
+1aaaac
+
+#74000000000
+0aaaac
+
+#76000000000
+b1000011000 aaaaa
+b111101101 aaaab
+1aaaac
+
+#78000000000
+0aaaac
+
+#80000000000
+b10010010 aaaaa
+b1010111010 aaaab
+1aaaac
+
+#82000000000
+0aaaac
+
+#84000000000
+b1101111010 aaaaa
+b110100011 aaaab
+1aaaac
+
+#86000000000
+0aaaac
+
+#88000000000
+b1001100 aaaaa
+b110011101 aaaab
+1aaaac
+
+#90000000000
+0aaaac
+
+#92000000000
+b101010011 aaaaa
+b1110011101 aaaab
+1aaaac
+
+#94000000000
+0aaaac
+
+#96000000000
+b11100010 aaaaa
+b11011001 aaaab
+1aaaac
+
+#98000000000
+0aaaac
+

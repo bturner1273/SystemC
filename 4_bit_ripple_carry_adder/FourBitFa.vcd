@@ -1,0 +1,71 @@
+$date
+     Feb 19, 2018       21:21:32
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Jun  1 2014 14:49:19
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  a0       $end
+$var wire    1  aaaab  a1       $end
+$var wire    1  aaaac  a2       $end
+$var wire    1  aaaad  a3       $end
+$var wire    1  aaaae  b0       $end
+$var wire    1  aaaaf  b1       $end
+$var wire    1  aaaag  b2       $end
+$var wire    1  aaaah  b3       $end
+$var wire    1  aaaai  cin       $end
+$var wire    1  aaaaj  s0       $end
+$var wire    1  aaaak  s1       $end
+$var wire    1  aaaal  s2       $end
+$var wire    1  aaaam  s3       $end
+$var wire    1  aaaan  carryOut       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+0aaaab
+0aaaac
+0aaaad
+0aaaae
+0aaaaf
+0aaaag
+0aaaah
+0aaaai
+0aaaaj
+0aaaak
+0aaaal
+0aaaam
+0aaaan
+$end
+
+#1000
+1aaaac
+1aaaag
+1aaaam
+
+#2000
+1aaaaa
+1aaaae
+1aaaak
+
+#4000
+0aaaaa
+0aaaae
+0aaaak
+
+#5000
+1aaaaa
+1aaaae
+1aaaak
+

@@ -1,0 +1,57 @@
+$date
+     Feb 19, 2018       21:17:41
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Jun  1 2014 14:49:19
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  a       $end
+$var wire    1  aaaab  b       $end
+$var wire    1  aaaac  aEXORb       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+0aaaab
+0aaaac
+$end
+
+#10000
+1aaaaa
+1aaaac
+
+#20000
+0aaaaa
+1aaaab
+
+#30000
+1aaaaa
+0aaaac
+
+#40000
+0aaaaa
+0aaaab
+
+#50000
+1aaaaa
+1aaaac
+
+#60000
+0aaaaa
+1aaaab
+
+#70000
+1aaaaa
+0aaaac
+

@@ -1,0 +1,894 @@
+@4 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8 ms person looked at overlapping regions for 0.004 seconds
+@12 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@16 ms person looked at overlapping regions for 0.012 seconds
+@32 ms person looked at ROI2 for 0.008 seconds
+@32 ms person began looking at the region corresponding to both ROI3 and ROI4
+@36 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@36 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@48 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@48 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@60 ms person looked at overlapping regions for 0.012 seconds
+@64 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@68 ms person looked at overlapping regions for 0.02 seconds
+@72 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@76 ms person looked at overlapping regions for 0.028 seconds
+@76 ms person began looking at ROI2
+@104 ms person looked at ROI2 for 0.004 seconds
+@104 ms person began looking at ROI4
+@108 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@120 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@124 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@124 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@128 ms person looked at overlapping regions for 0.016 seconds
+@132 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@140 ms person looked at overlapping regions for 0.024 seconds
+@168 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@172 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.032 seconds
+@192 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.036 seconds
+@192 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@196 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.04 seconds
+@200 ms person looked at overlapping regions for 0.044 seconds
+@240 ms person looked at ROI4 for 0.052 seconds
+@240 ms person began looking at ROI2
+@244 ms person looked at ROI2 for 0.004 seconds
+@244 ms person began looking at ROI4
+@260 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@272 ms person looked at overlapping regions for 0.008 seconds
+@304 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@308 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@328 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@332 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.028 seconds
+@336 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.032 seconds
+@336 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@368 ms person looked at overlapping regions for 0.036 seconds
+@376 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@392 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.048 seconds
+@408 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.052 seconds
+@412 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.056 seconds
+@412 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@444 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.06 seconds
+@448 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.064 seconds
+@468 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.068 seconds
+@472 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.072 seconds
+@472 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@488 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.076 seconds
+@500 ms person looked at overlapping regions for 0.08 seconds
+@512 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@544 ms person looked at overlapping regions for 0.092 seconds
+@588 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@604 ms person looked at overlapping regions for 0.004 seconds
+@612 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@656 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@656 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@660 ms person looked at overlapping regions for 0.016 seconds
+@680 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@688 ms person looked at overlapping regions for 0.028 seconds
+@768 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@788 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.036 seconds
+@796 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.04 seconds
+@796 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@816 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.044 seconds
+@824 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.048 seconds
+@824 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@848 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.052 seconds
+@848 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@856 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.06 seconds
+@856 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@860 ms person looked at overlapping regions for 0.064 seconds
+@876 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@900 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.072 seconds
+@916 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.076 seconds
+@916 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@920 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.08 seconds
+@924 ms person looked at overlapping regions for 0.084 seconds
+@928 ms person looked at ROI4 for 0.088 seconds
+@928 ms person began looking at ROI2
+@952 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@956 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@972 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@980 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@980 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@984 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@984 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1004 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@1008 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.024 seconds
+@1020 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.032 seconds
+@1020 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1024 ms person looked at overlapping regions for 0.036 seconds
+@1052 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1080 ms person looked at overlapping regions for 0.004 seconds
+@1108 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@1120 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@1120 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1132 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.012 seconds
+@1144 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@1144 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1156 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@1164 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.024 seconds
+@1168 ms person looked at overlapping regions for 0.028 seconds
+@1172 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1236 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@1240 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@1268 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@1268 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1288 ms person looked at overlapping regions for 0.016 seconds
+@1316 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1320 ms person looked at overlapping regions for 0.028 seconds
+@1356 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1372 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.04 seconds
+@1372 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1380 ms person looked at overlapping regions for 0.044 seconds
+@1388 ms person looked at ROI4 for 0.048 seconds
+@1388 ms person began looking at ROI1
+@1396 ms person looked at ROI1 for 0.004 seconds
+@1396 ms person began looking at ROI4
+@1412 ms person looked at ROI4 for 0.004 seconds
+@1412 ms person began looking at ROI2
+@1416 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1420 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@1424 ms person looked at overlapping regions for 0.008 seconds
+@1436 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1440 ms person looked at overlapping regions for 0.004 seconds
+@1448 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1460 ms person looked at overlapping regions for 0.012 seconds
+@1480 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@1504 ms person looked at overlapping regions for 0.02 seconds
+@1512 ms person looked at ROI4 for 0.024 seconds
+@1512 ms person began looking at ROI2
+@1516 ms person looked at ROI2 for 0.004 seconds
+@1516 ms person began looking at ROI4
+@1556 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1568 ms person looked at overlapping regions for 0.008 seconds
+@1572 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1576 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@1576 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1588 ms person looked at overlapping regions for 0.02 seconds
+@1620 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@1648 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.04 seconds
+@1648 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1652 ms person looked at overlapping regions for 0.044 seconds
+@1652 ms person began looking at ROI2
+@1688 ms person looked at ROI2 for 0.004 seconds
+@1688 ms person began looking at ROI4
+@1704 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1708 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@1720 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@1720 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1752 ms person looked at overlapping regions for 0.02 seconds
+@1776 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1784 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.028 seconds
+@1796 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.032 seconds
+@1796 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1804 ms person looked at overlapping regions for 0.036 seconds
+@1808 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1820 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.044 seconds
+@1820 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1824 ms person looked at overlapping regions for 0.048 seconds
+@1856 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@1864 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.06 seconds
+@1864 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1868 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.064 seconds
+@1872 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.068 seconds
+@1880 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.072 seconds
+@1880 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@1884 ms person looked at overlapping regions for 0.076 seconds
+@1904 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@1908 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.088 seconds
+@1912 ms person looked at overlapping regions for 0.092 seconds
+@1940 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@1972 ms person looked at overlapping regions for 0.104 seconds
+@1980 ms person looked at ROI2 for 0.008 seconds
+@1980 ms person began looking at ROI4
+@2008 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2024 ms person looked at overlapping regions for 0.016 seconds
+@2040 ms person looked at ROI4 for 0.024 seconds
+@2040 ms person began looking at ROI2
+@2048 ms person looked at ROI2 for 0.004 seconds
+@2048 ms person began looking at ROI4
+@2080 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2084 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@2088 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@2088 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2096 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.02 seconds
+@2108 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@2108 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2124 ms person looked at overlapping regions for 0.028 seconds
+@2136 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2144 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.036 seconds
+@2152 ms person looked at overlapping regions for 0.04 seconds
+@2188 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@2208 ms person looked at overlapping regions for 0.052 seconds
+@2240 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2272 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.068 seconds
+@2276 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.072 seconds
+@2280 ms person looked at overlapping regions for 0.076 seconds
+@2292 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2308 ms person looked at overlapping regions for 0.084 seconds
+@2320 ms person looked at ROI2 for 0.008 seconds
+@2320 ms person began looking at ROI4
+@2348 ms person looked at ROI4 for 0.004 seconds
+@2348 ms person began looking at ROI2
+@2360 ms person looked at ROI2 for 0.008 seconds
+@2360 ms person began looking at ROI4
+@2368 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2396 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@2416 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.02 seconds
+@2416 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@2420 ms person looked at overlapping regions for 0.024 seconds
+@2420 ms person began looking at ROI2
+@2428 ms person looked at ROI2 for 0.004 seconds
+@2428 ms person began looking at ROI4
+@2436 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2444 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@2452 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.016 seconds
+@2468 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@2468 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2472 ms person looked at overlapping regions for 0.024 seconds
+@2476 ms person looked at ROI2 for 0.02 seconds
+@2476 ms person began looking at ROI4
+@2492 ms person looked at ROI4 for 0.008 seconds
+@2492 ms person began looking at ROI2
+@2500 ms person looked at ROI2 for 0.004 seconds
+@2500 ms person began looking at ROI4
+@2504 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2508 ms person looked at overlapping regions for 0.008 seconds
+@2516 ms person looked at ROI2 for 0.008 seconds
+@2516 ms person began looking at the region corresponding to both ROI3 and ROI4
+@2536 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@2536 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@2544 ms person looked at overlapping regions for 0.012 seconds
+@2560 ms person looked at ROI4 for 0.016 seconds
+@2560 ms person began looking at ROI2
+@2568 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@2584 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@2584 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2600 ms person looked at overlapping regions for 0.008 seconds
+@2672 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@2684 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@2684 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2700 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.02 seconds
+@2704 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@2704 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2736 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@2756 ms person looked at overlapping regions for 0.032 seconds
+@2784 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@2852 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.04 seconds
+@2852 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2872 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.044 seconds
+@2892 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.048 seconds
+@2900 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.052 seconds
+@2900 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2904 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.056 seconds
+@2928 ms person looked at overlapping regions for 0.06 seconds
+@2944 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@2948 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@2952 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@2984 ms person looked at overlapping regions for 0.012 seconds
+@3 s person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3008 ms person looked at overlapping regions for 0.004 seconds
+@3012 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3016 ms person looked at overlapping regions for 0.012 seconds
+@3044 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3068 ms person looked at overlapping regions for 0.024 seconds
+@3088 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3096 ms person looked at overlapping regions for 0.036 seconds
+@3112 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@3124 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.004 seconds
+@3124 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@3132 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@3132 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3144 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@3148 ms person looked at overlapping regions for 0.016 seconds
+@3148 ms person began looking at ROI1
+@3168 ms person looked at ROI1 for 0.004 seconds
+@3168 ms person began looking at ROI4
+@3176 ms person looked at ROI4 for 0.008 seconds
+@3176 ms person began looking at ROI2
+@3216 ms person looked at ROI2 for 0.008 seconds
+@3216 ms person began looking at the region corresponding to both ROI3 and ROI4
+@3260 ms person looked at overlapping regions for 0.004 seconds
+@3272 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3276 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.012 seconds
+@3276 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@3308 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.02 seconds
+@3308 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3316 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@3316 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3320 ms person looked at overlapping regions for 0.028 seconds
+@3324 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@3368 ms person looked at overlapping regions for 0.036 seconds
+@3368 ms person began looking at ROI2
+@3384 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3400 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.004 seconds
+@3408 ms person looked at overlapping regions for 0.008 seconds
+@3408 ms person began looking at ROI2
+@3420 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@3424 ms person looked at overlapping regions for 0.004 seconds
+@3428 ms person looked at ROI2 for 0.012 seconds
+@3428 ms person began looking at the region corresponding to both ROI3 and ROI4
+@3436 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@3436 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3444 ms person looked at overlapping regions for 0.008 seconds
+@3452 ms person looked at ROI2 for 0.008 seconds
+@3452 ms person began looking at the region corresponding to both ROI3 and ROI4
+@3460 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@3460 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3476 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@3504 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.012 seconds
+@3520 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@3520 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3532 ms person looked at overlapping regions for 0.02 seconds
+@3536 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3544 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@3556 ms person looked at overlapping regions for 0.032 seconds
+@3560 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3596 ms person looked at overlapping regions for 0.004 seconds
+@3624 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3628 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@3628 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3644 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@3648 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.02 seconds
+@3656 ms person looked at overlapping regions for 0.024 seconds
+@3656 ms person began looking at ROI2
+@3664 ms person looked at ROI2 for 0.004 seconds
+@3664 ms person began looking at the region corresponding to both ROI3 and ROI4
+@3704 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@3704 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@3708 ms person looked at overlapping regions for 0.008 seconds
+@3728 ms person looked at ROI4 for 0.012 seconds
+@3728 ms person began looking at ROI2
+@3744 ms person looked at ROI2 for 0.004 seconds
+@3744 ms person began looking at the region corresponding to both ROI3 and ROI4
+@3752 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@3752 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3756 ms person looked at overlapping regions for 0.008 seconds
+@3768 ms person looked at ROI4 for 0.012 seconds
+@3768 ms person began looking at ROI2
+@3796 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3820 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.004 seconds
+@3824 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@3824 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3872 ms person looked at overlapping regions for 0.012 seconds
+@3916 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@3924 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@3928 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@3944 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@3972 ms person looked at overlapping regions for 0.016 seconds
+@3976 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4004 ms person looked at overlapping regions for 0.024 seconds
+@4024 ms person looked at ROI4 for 0.028 seconds
+@4024 ms person began looking at ROI2
+@4072 ms person looked at ROI2 for 0.004 seconds
+@4072 ms person began looking at ROI4
+@4076 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4088 ms person looked at overlapping regions for 0.008 seconds
+@4104 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4108 ms person looked at overlapping regions for 0.004 seconds
+@4116 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4128 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@4132 ms person looked at overlapping regions for 0.008 seconds
+@4136 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@4144 ms person looked at overlapping regions for 0.016 seconds
+@4148 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4152 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@4156 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.028 seconds
+@4176 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.032 seconds
+@4176 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4180 ms person looked at overlapping regions for 0.036 seconds
+@4232 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4236 ms person looked at overlapping regions for 0.004 seconds
+@4268 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4276 ms person looked at overlapping regions for 0.004 seconds
+@4288 ms person looked at ROI4 for 0.008 seconds
+@4288 ms person began looking at ROI2
+@4304 ms person looked at ROI2 for 0.004 seconds
+@4304 ms person began looking at ROI4
+@4308 ms person looked at ROI4 for 0.004 seconds
+@4308 ms person began looking at ROI2
+@4312 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4316 ms person looked at overlapping regions for 0.004 seconds
+@4324 ms person looked at ROI2 for 0.012 seconds
+@4324 ms person began looking at the region corresponding to both ROI3 and ROI4
+@4328 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@4328 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4344 ms person looked at overlapping regions for 0.008 seconds
+@4376 ms person looked at ROI2 for 0.008 seconds
+@4376 ms person began looking at ROI4
+@4388 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4400 ms person looked at overlapping regions for 0.012 seconds
+@4408 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4416 ms person looked at overlapping regions for 0.02 seconds
+@4452 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4476 ms person looked at overlapping regions for 0.004 seconds
+@4484 ms person looked at ROI4 for 0.008 seconds
+@4484 ms person began looking at ROI1
+@4500 ms person looked at ROI1 for 0.004 seconds
+@4500 ms person began looking at the region corresponding to both ROI3 and ROI4
+@4504 ms person looked at overlapping regions for 0.004 seconds
+@4504 ms person began looking at ROI2
+@4508 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4520 ms person looked at overlapping regions for 0.004 seconds
+@4528 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4532 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@4536 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.008 seconds
+@4548 ms person looked at overlapping regions for 0.012 seconds
+@4564 ms person looked at ROI4 for 0.016 seconds
+@4564 ms person began looking at ROI2
+@4584 ms person looked at ROI2 for 0.004 seconds
+@4584 ms person began looking at ROI4
+@4660 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4676 ms person looked at overlapping regions for 0.024 seconds
+@4676 ms person began looking at ROI3
+@4688 ms person looked at ROI3 for 0.004 seconds
+@4688 ms person began looking at ROI4
+@4704 ms person looked at ROI4 for 0.008 seconds
+@4704 ms person began looking at ROI2
+@4744 ms person looked at ROI2 for 0.004 seconds
+@4744 ms person began looking at ROI4
+@4764 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@4784 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@4784 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4792 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.02 seconds
+@4800 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@4800 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4804 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@4808 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.032 seconds
+@4816 ms person looked at overlapping regions for 0.036 seconds
+@4852 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4856 ms person looked at overlapping regions for 0.048 seconds
+@4864 ms person looked at ROI2 for 0.008 seconds
+@4864 ms person began looking at ROI4
+@4884 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4908 ms person looked at overlapping regions for 0.016 seconds
+@4912 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4944 ms person looked at overlapping regions for 0.004 seconds
+@4948 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@4964 ms person looked at overlapping regions for 0.012 seconds
+@4968 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@4980 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@4984 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@4996 ms person looked at overlapping regions for 0.012 seconds
+@5 s person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5004 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@5012 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.024 seconds
+@5020 ms person looked at overlapping regions for 0.028 seconds
+@5024 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5028 ms person looked at overlapping regions for 0.036 seconds
+@5032 ms person looked at ROI2 for 0.008 seconds
+@5032 ms person began looking at the region corresponding to both ROI3 and ROI4
+@5036 ms person looked at overlapping regions for 0.004 seconds
+@5084 ms person looked at ROI4 for 0.016 seconds
+@5084 ms person began looking at ROI2
+@5088 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@5096 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5096 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5104 ms person looked at overlapping regions for 0.008 seconds
+@5132 ms person looked at ROI4 for 0.016 seconds
+@5132 ms person began looking at ROI2
+@5144 ms person looked at ROI2 for 0.004 seconds
+@5144 ms person began looking at ROI4
+@5152 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5156 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.008 seconds
+@5160 ms person looked at overlapping regions for 0.012 seconds
+@5176 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5188 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@5204 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@5228 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@5236 ms person looked at overlapping regions for 0.032 seconds
+@5244 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5252 ms person looked at overlapping regions for 0.004 seconds
+@5264 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@5276 ms person looked at overlapping regions for 0.016 seconds
+@5292 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@5300 ms person looked at overlapping regions for 0.024 seconds
+@5316 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5320 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.036 seconds
+@5336 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.044 seconds
+@5336 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5344 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.048 seconds
+@5376 ms person looked at overlapping regions for 0.052 seconds
+@5392 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5400 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.06 seconds
+@5444 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.068 seconds
+@5444 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@5448 ms person looked at overlapping regions for 0.072 seconds
+@5464 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@5468 ms person looked at overlapping regions for 0.088 seconds
+@5476 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@5480 ms person looked at overlapping regions for 0.1 seconds
+@5480 ms person began looking at ROI2
+@5484 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5504 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@5508 ms person looked at overlapping regions for 0.008 seconds
+@5528 ms person looked at ROI4 for 0.012 seconds
+@5528 ms person began looking at ROI2
+@5540 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@5560 ms person looked at overlapping regions for 0.004 seconds
+@5568 ms person looked at ROI2 for 0.012 seconds
+@5568 ms person began looking at the region corresponding to both ROI3 and ROI4
+@5588 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5588 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5612 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@5624 ms person looked at overlapping regions for 0.012 seconds
+@5628 ms person looked at ROI4 for 0.016 seconds
+@5628 ms person began looking at ROI2
+@5704 ms person looked at ROI2 for 0.008 seconds
+@5704 ms person began looking at the region corresponding to both ROI3 and ROI4
+@5720 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5720 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5724 ms person looked at overlapping regions for 0.008 seconds
+@5752 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5756 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5772 ms person looked at overlapping regions for 0.008 seconds
+@5820 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@5824 ms person looked at overlapping regions for 0.02 seconds
+@5828 ms person looked at ROI4 for 0.024 seconds
+@5828 ms person began looking at ROI2
+@5832 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5856 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5860 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@5864 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@5864 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5876 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@5880 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@5884 ms person looked at overlapping regions for 0.024 seconds
+@5892 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5896 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.036 seconds
+@5908 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.04 seconds
+@5944 ms person looked at overlapping regions for 0.048 seconds
+@5944 ms person began looking at ROI2
+@5948 ms person looked at ROI2 for 0.004 seconds
+@5948 ms person began looking at the region corresponding to both ROI3 and ROI4
+@5952 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@5952 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@5960 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@5980 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@5988 ms person looked at overlapping regions for 0.016 seconds
+@6008 ms person looked at ROI2 for 0.016 seconds
+@6008 ms person began looking at ROI4
+@6012 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6016 ms person looked at overlapping regions for 0.008 seconds
+@6020 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6044 ms person looked at overlapping regions for 0.016 seconds
+@6048 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6076 ms person looked at overlapping regions for 0.024 seconds
+@6100 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6104 ms person looked at overlapping regions for 0.032 seconds
+@6120 ms person looked at ROI4 for 0.044 seconds
+@6120 ms person began looking at ROI2
+@6132 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6136 ms person looked at overlapping regions for 0.004 seconds
+@6144 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6148 ms person looked at overlapping regions for 0.012 seconds
+@6168 ms person looked at ROI4 for 0.02 seconds
+@6168 ms person began looking at ROI2
+@6172 ms person looked at ROI2 for 0.004 seconds
+@6172 ms person began looking at ROI4
+@6176 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6192 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.008 seconds
+@6196 ms person looked at overlapping regions for 0.012 seconds
+@6200 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@6204 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@6204 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6208 ms person looked at overlapping regions for 0.024 seconds
+@6224 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@6228 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.032 seconds
+@6228 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6252 ms person looked at overlapping regions for 0.036 seconds
+@6256 ms person looked at ROI2 for 0.008 seconds
+@6256 ms person began looking at the region corresponding to both ROI3 and ROI4
+@6260 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@6260 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6268 ms person looked at overlapping regions for 0.008 seconds
+@6272 ms person looked at ROI4 for 0.012 seconds
+@6272 ms person began looking at ROI2
+@6288 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6292 ms person looked at overlapping regions for 0.004 seconds
+@6308 ms person looked at ROI2 for 0.012 seconds
+@6308 ms person began looking at the region corresponding to both ROI3 and ROI4
+@6316 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@6316 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6320 ms person looked at overlapping regions for 0.008 seconds
+@6336 ms person looked at ROI2 for 0.008 seconds
+@6336 ms person began looking at ROI4
+@6340 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@6344 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@6344 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6348 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@6364 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@6376 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@6384 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@6396 ms person looked at overlapping regions for 0.028 seconds
+@6416 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6428 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.036 seconds
+@6432 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.04 seconds
+@6472 ms person looked at overlapping regions for 0.048 seconds
+@6492 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6504 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.056 seconds
+@6520 ms person looked at overlapping regions for 0.06 seconds
+@6592 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6604 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.08 seconds
+@6620 ms person looked at overlapping regions for 0.084 seconds
+@6656 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6660 ms person looked at overlapping regions for 0.092 seconds
+@6692 ms person looked at ROI2 for 0.008 seconds
+@6692 ms person began looking at the region corresponding to both ROI3 and ROI4
+@6704 ms person looked at overlapping regions for 0.004 seconds
+@6704 ms person began looking at ROI2
+@6736 ms person looked at ROI2 for 0.008 seconds
+@6736 ms person began looking at the region corresponding to both ROI3 and ROI4
+@6744 ms person looked at overlapping regions for 0.004 seconds
+@6748 ms person looked at ROI3 for 0.008 seconds
+@6748 ms person began looking at the region corresponding to both ROI2 and ROI4
+@6756 ms person looked at overlapping regions for 0.008 seconds
+@6788 ms person looked at ROI4 for 0.012 seconds
+@6788 ms person began looking at ROI2
+@6804 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6812 ms person looked at overlapping regions for 0.004 seconds
+@6820 ms person looked at ROI4 for 0.008 seconds
+@6820 ms person began looking at ROI2
+@6828 ms person looked at ROI2 for 0.004 seconds
+@6828 ms person began looking at ROI4
+@6848 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@6860 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.012 seconds
+@6860 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@6868 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@6868 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6896 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.02 seconds
+@6904 ms person looked at overlapping regions for 0.024 seconds
+@6916 ms person looked at ROI4 for 0.032 seconds
+@6916 ms person began looking at ROI2
+@6920 ms person looked at ROI2 for 0.004 seconds
+@6920 ms person began looking at ROI4
+@6936 ms person looked at ROI4 for 0.004 seconds
+@6936 ms person began looking at ROI2
+@6972 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@6976 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@6980 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@6996 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@7052 ms person looked at overlapping regions for 0.016 seconds
+@7068 ms person looked at ROI4 for 0.02 seconds
+@7068 ms person began looking at ROI2
+@7112 ms person looked at ROI2 for 0.008 seconds
+@7112 ms person began looking at the region corresponding to both ROI3 and ROI4
+@7120 ms person looked at overlapping regions for 0.004 seconds
+@7136 ms person looked at ROI4 for 0.016 seconds
+@7136 ms person began looking at ROI2
+@7140 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7152 ms person looked at overlapping regions for 0.004 seconds
+@7156 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@7164 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@7164 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7172 ms person looked at overlapping regions for 0.008 seconds
+@7180 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7184 ms person looked at overlapping regions for 0.004 seconds
+@7220 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7228 ms person looked at overlapping regions for 0.012 seconds
+@7260 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7272 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.028 seconds
+@7292 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.032 seconds
+@7292 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7296 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.036 seconds
+@7304 ms person looked at overlapping regions for 0.04 seconds
+@7308 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7316 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.048 seconds
+@7360 ms person looked at overlapping regions for 0.056 seconds
+@7360 ms person began looking at ROI2
+@7372 ms person looked at ROI2 for 0.004 seconds
+@7372 ms person began looking at the region corresponding to both ROI3 and ROI4
+@7376 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@7376 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7380 ms person looked at overlapping regions for 0.008 seconds
+@7384 ms person looked at ROI2 for 0.008 seconds
+@7384 ms person began looking at ROI4
+@7392 ms person looked at ROI4 for 0.008 seconds
+@7392 ms person began looking at ROI2
+@7404 ms person looked at ROI2 for 0.004 seconds
+@7404 ms person began looking at the region corresponding to both ROI3 and ROI4
+@7412 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@7412 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7424 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@7440 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@7444 ms person looked at overlapping regions for 0.016 seconds
+@7480 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7484 ms person looked at overlapping regions for 0.024 seconds
+@7496 ms person looked at ROI2 for 0.008 seconds
+@7496 ms person began looking at ROI4
+@7500 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@7508 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@7508 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7512 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@7520 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@7532 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@7552 ms person looked at overlapping regions for 0.024 seconds
+@7556 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7568 ms person looked at overlapping regions for 0.004 seconds
+@7604 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7608 ms person looked at overlapping regions for 0.02 seconds
+@7628 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@7676 ms person looked at overlapping regions for 0.032 seconds
+@7676 ms person began looking at ROI2
+@7696 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7704 ms person looked at overlapping regions for 0.004 seconds
+@7708 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7712 ms person looked at overlapping regions for 0.012 seconds
+@7728 ms person looked at ROI3 for 0.008 seconds
+@7728 ms person began looking at ROI4
+@7744 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7748 ms person looked at overlapping regions for 0.008 seconds
+@7768 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7776 ms person looked at overlapping regions for 0.016 seconds
+@7784 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7804 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@7812 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@7828 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.032 seconds
+@7848 ms person looked at overlapping regions for 0.036 seconds
+@7876 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7904 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.044 seconds
+@7908 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.048 seconds
+@7912 ms person looked at overlapping regions for 0.052 seconds
+@7924 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@7928 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@7928 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7956 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@7964 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.012 seconds
+@7976 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@7976 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@7992 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@8004 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@8008 ms person looked at overlapping regions for 0.028 seconds
+@8012 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@8056 ms person looked at overlapping regions for 0.036 seconds
+@8092 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@8104 ms person looked at overlapping regions for 0.048 seconds
+@8172 ms person looked at ROI3 for 0.008 seconds
+@8172 ms person began looking at ROI4
+@8180 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8184 ms person looked at overlapping regions for 0.012 seconds
+@8192 ms person looked at ROI2 for 0.008 seconds
+@8192 ms person began looking at ROI4
+@8228 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8232 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.012 seconds
+@8244 ms person looked at overlapping regions for 0.016 seconds
+@8256 ms person looked at ROI2 for 0.012 seconds
+@8256 ms person began looking at ROI4
+@8284 ms person looked at ROI4 for 0.004 seconds
+@8284 ms person began looking at ROI2
+@8316 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@8340 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.004 seconds
+@8340 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@8348 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@8348 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8364 ms person looked at overlapping regions for 0.012 seconds
+@8376 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8380 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.004 seconds
+@8388 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.008 seconds
+@8388 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@8392 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@8392 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8404 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@8440 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@8456 ms person looked at overlapping regions for 0.024 seconds
+@8488 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8496 ms person looked at overlapping regions for 0.004 seconds
+@8516 ms person looked at ROI2 for 0.04 seconds
+@8516 ms person began looking at ROI4
+@8520 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8528 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.008 seconds
+@8532 ms person looked at overlapping regions for 0.012 seconds
+@8588 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@8592 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.032 seconds
+@8592 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@8596 ms person looked at overlapping regions for 0.036 seconds
+@8596 ms person began looking at ROI2
+@8600 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8620 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@8624 ms person looked at overlapping regions for 0.008 seconds
+@8640 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@8644 ms person looked at overlapping regions for 0.02 seconds
+@8644 ms person began looking at ROI2
+@8708 ms person looked at ROI2 for 0.004 seconds
+@8708 ms person began looking at the region corresponding to both ROI3 and ROI4
+@8732 ms person looked at overlapping regions for 0.004 seconds
+@8744 ms person looked at ROI4 for 0.012 seconds
+@8744 ms person began looking at ROI3
+@8752 ms person looked at ROI3 for 0.004 seconds
+@8752 ms person began looking at ROI1
+@8764 ms person looked at ROI1 for 0.004 seconds
+@8764 ms person began looking at ROI4
+@8768 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@8772 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@8772 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8784 ms person looked at overlapping regions for 0.012 seconds
+@8800 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8816 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@8836 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@8852 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.028 seconds
+@8860 ms person looked at overlapping regions for 0.032 seconds
+@8884 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@8892 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.044 seconds
+@8892 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8912 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.048 seconds
+@8940 ms person looked at overlapping regions for 0.056 seconds
+@8952 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@8964 ms person looked at overlapping regions for 0.068 seconds
+@8968 ms person looked at ROI4 for 0.072 seconds
+@8968 ms person began looking at ROI2
+@8988 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@9 s person looked at overlapping regions for 0.004 seconds
+@9024 ms person looked at ROI2 for 0.012 seconds
+@9024 ms person began looking at the region corresponding to both ROI3 and ROI4
+@9044 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@9044 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@9048 ms person looked at overlapping regions for 0.008 seconds
+@9084 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9100 ms person looked at overlapping regions for 0.004 seconds
+@9132 ms person looked at ROI4 for 0.02 seconds
+@9132 ms person began looking at ROI1
+@9168 ms person looked at ROI1 for 0.004 seconds
+@9168 ms person began looking at the region corresponding to both ROI2 and ROI4
+@9180 ms person looked at overlapping regions for 0.004 seconds
+@9196 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9208 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@9212 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@9260 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@9316 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@9320 ms person looked at overlapping regions for 0.028 seconds
+@9340 ms person was looking at region 2 then began looking at the region corresponding to both ROI2 and ROI4
+@9356 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@9356 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9372 ms person looked at overlapping regions for 0.008 seconds
+@9380 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9404 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.004 seconds
+@9412 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@9416 ms person looked at overlapping regions for 0.012 seconds
+@9420 ms person looked at ROI2 for 0.056 seconds
+@9420 ms person began looking at ROI4
+@9468 ms person looked at ROI4 for 0.012 seconds
+@9468 ms person began looking at ROI2
+@9488 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9512 ms person looked at overlapping regions for 0.004 seconds
+@9516 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9520 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.004 seconds
+@9524 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.008 seconds
+@9524 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9532 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@9544 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.016 seconds
+@9548 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@9548 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9552 ms person looked at overlapping regions for 0.024 seconds
+@9572 ms person looked at ROI2 for 0.008 seconds
+@9572 ms person began looking at ROI4
+@9596 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9604 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@9608 ms person looked at overlapping regions for 0.02 seconds
+@9616 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@9628 ms person looked at overlapping regions not including ROI3 && ROI4 for 0.028 seconds
+@9628 ms person was looking at region 4 then began looking at the region corresponding to both ROI3 and ROI4
+@9632 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.032 seconds
+@9632 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@9652 ms person looked at overlapping regions for 0.036 seconds
+@9656 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9660 ms person looked at overlapping regions for 0.044 seconds
+@9676 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9684 ms person looked at overlapping regions for 0.052 seconds
+@9756 ms person looked at ROI4 for 0.072 seconds
+@9756 ms person began looking at ROI2
+@9760 ms person looked at ROI2 for 0.004 seconds
+@9760 ms person began looking at ROI4
+@9776 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9800 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.012 seconds
+@9804 ms person looked at overlapping regions for 0.016 seconds
+@9832 ms person was looking at region 4 then began looking at the region corresponding to both ROI2 and ROI4
+@9848 ms person looked at overlapping regions for 0.024 seconds
+@9856 ms person looked at ROI2 for 0.008 seconds
+@9856 ms person began looking at the region corresponding to both ROI3 and ROI4
+@9876 ms person looked at overlapping regions for 0.008 seconds
+@9880 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
+@9896 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.016 seconds
+@9908 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.02 seconds
+@9944 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.024 seconds
+@9948 ms person looked at overlapping regions not including ROI2 and ROI4 for 0.028 seconds
+@9984 ms person looked at overlapping regions not including ROI2, ROI3, and ROI4 for 0.032 seconds
+@9984 ms person began looking at the region corresponding to ROI2, ROI3 and ROI4
